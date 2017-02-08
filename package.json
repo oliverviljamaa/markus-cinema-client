@@ -1,0 +1,12 @@
+{
+  "name": "markus-cinema-client",
+  "version": "0.1.0",
+  "description": "JavaScript client for MARKUS Cinema System XML data.",
+  "main": "index.js",
+  "repository": {
+    "url": "git@github.com:oliverviljamaa/markus-cinema-client.git",
+    "type": "git"
+  },
+  "author": "Oliver Viljamaa <oliver.viljamaa@gmail.com>",
+  "license": "MIT"
+}
