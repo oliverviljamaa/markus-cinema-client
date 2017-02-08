@@ -7,6 +7,9 @@
     "url": "git@github.com:oliverviljamaa/markus-cinema-client.git",
     "type": "git"
   },
+  "scripts": {
+    "test": "jest"
+  },
   "author": "Oliver Viljamaa <oliver.viljamaa@gmail.com>",
   "license": "MIT",
   "devDependencies": {
