@@ -8,7 +8,10 @@
     "type": "git"
   },
   "scripts": {
-    "test": "jest"
+    "lint": "eslint index.js src test",
+    "test": "yarn lint && jest",
+    "test:watch": "jest --watch",
+    "test:coverage": "jest --coverage"
   },
   "author": "Oliver Viljamaa <oliver.viljamaa@gmail.com>",
   "license": "MIT",
@@ -17,5 +20,11 @@
     "eslint-config-airbnb-base": "^11.1.0",
     "eslint-plugin-import": "^2.2.0",
     "jest": "^18.1.0"
+  },
+  "dependencies": {
+    "bluebird": "^3.4.7",
+    "request": "^2.79.0",
+    "request-promise": "^4.1.1",
+    "xml2js": "^0.4.17"
   }
 }

@@ -1,0 +1,189 @@
+<?xml version="1.0"?>
+<Schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PubDate>2017-02-12T00:00:00+00:00</PubDate>
+  <Shows>
+    <Show>
+      <ID>140829</ID>
+      <dtAccounting>2017-02-12T00:00:00</dtAccounting>
+      <dttmShowStart>2017-02-12T11:00:00</dttmShowStart>
+      <dttmShowStartUTC>2017-02-12T09:00:00Z</dttmShowStartUTC>
+      <dttmShowEnd>2017-02-12T12:54:00</dttmShowEnd>
+      <dttmShowEndUTC>2017-02-12T10:54:00Z</dttmShowEndUTC>
+      <ShowSalesStartTime>2000-01-01T00:00:00</ShowSalesStartTime>
+      <ShowSalesStartTimeUTC>2000-01-01T00:00:00Z</ShowSalesStartTimeUTC>
+      <ShowSalesEndTime>2017-02-12T10:15:00</ShowSalesEndTime>
+      <ShowSalesEndTimeUTC>2017-02-12T08:15:00Z</ShowSalesEndTimeUTC>
+      <ShowReservationStartTime>0001-01-01T00:00:00</ShowReservationStartTime>
+      <ShowReservationStartTimeUTC>0001-01-01T00:00:00</ShowReservationStartTimeUTC>
+      <ShowReservationEndTime>0001-01-01T00:00:00</ShowReservationEndTime>
+      <ShowReservationEndTimeUTC>0001-01-01T00:00:00</ShowReservationEndTimeUTC>
+      <EventID>2897</EventID>
+      <Title>Lego Batman movie</Title>
+      <OriginalTitle>Lego Batman movie</OriginalTitle>
+      <ProductionYear>2017</ProductionYear>
+      <LengthInMinutes>104</LengthInMinutes>
+      <dtLocalRelease>2017-02-10T00:00:00</dtLocalRelease>
+      <Rating>Family film</Rating>
+      <RatingLabel>Family film</RatingLabel>
+      <RatingImageUrl>https://mcswebsites.blob.core.windows.net/apollokino-ee/images/rating_large_Family film.png</RatingImageUrl>
+      <EventType>Movie</EventType>
+      <Genres>Comedy, Action, Animation</Genres>
+      <TheatreID>1038</TheatreID>
+      <TheatreAuditriumID>1206</TheatreAuditriumID>
+      <Theatre>Apollo Kino Solaris</Theatre>
+      <TheatreAuditorium>Telia Screen 2</TheatreAuditorium>
+      <TheatreAndAuditorium>Apollo Kino Solaris, Telia Screen 2</TheatreAndAuditorium>
+      <PresentationMethodAndLanguage>in Estonian</PresentationMethodAndLanguage>
+      <PresentationMethod />
+      <EventSeries />
+      <ShowURL>http://apollokino.ee/eng/Websales/Show/140829/</ShowURL>
+      <EventURL>http://apollokino.ee/eng/Event/2897/</EventURL>
+      <Images>
+        <EventMicroImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6101/portrait_micro/Lego-Batman_B1_EE_Preview.jpg</EventMicroImagePortrait>
+        <EventSmallImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6101/portrait_small/Lego-Batman_B1_EE_Preview.jpg</EventSmallImagePortrait>
+        <EventMediumImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6101/portrait_medium/Lego-Batman_B1_EE_Preview.jpg</EventMediumImagePortrait>
+        <EventLargeImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6101/portrait_large/Lego-Batman_B1_EE_Preview.jpg</EventLargeImagePortrait>
+        <EventSmallImageLandscape>http://mcswebsites.blob.core.windows.net/1013/Event_6101/landscape_small/LegoBatman_ApolloKino_MoviePageHeader.jpg</EventSmallImageLandscape>
+        <EventLargeImageLandscape>http://mcswebsites.blob.core.windows.net/1013/Event_6101/landscape_large/LegoBatman_ApolloKino_MoviePageHeader.jpg</EventLargeImageLandscape>
+      </Images>
+      <ContentDescriptors />
+    </Show>
+    <Show>
+      <ID>140599</ID>
+      <dtAccounting>2017-02-12T00:00:00</dtAccounting>
+      <dttmShowStart>2017-02-12T11:00:00</dttmShowStart>
+      <dttmShowStartUTC>2017-02-12T09:00:00Z</dttmShowStartUTC>
+      <dttmShowEnd>2017-02-12T12:39:00</dttmShowEnd>
+      <dttmShowEndUTC>2017-02-12T10:39:00Z</dttmShowEndUTC>
+      <ShowSalesStartTime>2000-01-01T00:00:00</ShowSalesStartTime>
+      <ShowSalesStartTimeUTC>2000-01-01T00:00:00Z</ShowSalesStartTimeUTC>
+      <ShowSalesEndTime>2017-02-12T10:15:00</ShowSalesEndTime>
+      <ShowSalesEndTimeUTC>2017-02-12T08:15:00Z</ShowSalesEndTimeUTC>
+      <ShowReservationStartTime>0001-01-01T00:00:00</ShowReservationStartTime>
+      <ShowReservationStartTimeUTC>0001-01-01T00:00:00</ShowReservationStartTimeUTC>
+      <ShowReservationEndTime>0001-01-01T00:00:00</ShowReservationEndTime>
+      <ShowReservationEndTimeUTC>0001-01-01T00:00:00</ShowReservationEndTimeUTC>
+      <EventID>3041</EventID>
+      <Title>Ballerina</Title>
+      <OriginalTitle>Ballerina</OriginalTitle>
+      <ProductionYear>2016</ProductionYear>
+      <LengthInMinutes>89</LengthInMinutes>
+      <dtLocalRelease>2017-01-20T00:00:00</dtLocalRelease>
+      <Rating>Family film</Rating>
+      <RatingLabel>Family film</RatingLabel>
+      <RatingImageUrl>https://mcswebsites.blob.core.windows.net/apollokino-ee/images/rating_large_Family film.png</RatingImageUrl>
+      <EventType>Movie</EventType>
+      <Genres>Animation, Family</Genres>
+      <TheatreID>1040</TheatreID>
+      <TheatreAuditriumID>1215</TheatreAuditriumID>
+      <Theatre>Apollo Kino Mustamäe</Theatre>
+      <TheatreAuditorium>Telia Screen 2</TheatreAuditorium>
+      <TheatreAndAuditorium>Apollo Kino Mustamäe, Telia Screen 2</TheatreAndAuditorium>
+      <PresentationMethodAndLanguage>in Estonian</PresentationMethodAndLanguage>
+      <PresentationMethod />
+      <EventSeries />
+      <ShowURL>http://apollokino.ee/eng/Websales/Show/140599/</ShowURL>
+      <EventURL>http://apollokino.ee/eng/Event/3041/</EventURL>
+      <Images>
+        <EventMicroImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6263/portrait_micro/Ballerina_B1_EE_new.jpg</EventMicroImagePortrait>
+        <EventSmallImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6263/portrait_small/Ballerina_B1_EE_new.jpg</EventSmallImagePortrait>
+        <EventMediumImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6263/portrait_medium/Ballerina_B1_EE_new.jpg</EventMediumImagePortrait>
+        <EventLargeImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6263/portrait_large/Ballerina_B1_EE_new.jpg</EventLargeImagePortrait>
+        <EventSmallImageLandscape>http://mcswebsites.blob.core.windows.net/1013/Event_6263/landscape_small/Ballerina_ApolloKino_MoviePageHeader.jpg</EventSmallImageLandscape>
+        <EventLargeImageLandscape>http://mcswebsites.blob.core.windows.net/1013/Event_6263/landscape_large/Ballerina_ApolloKino_MoviePageHeader.jpg</EventLargeImageLandscape>
+      </Images>
+      <ContentDescriptors />
+    </Show>
+    <Show>
+      <ID>140860</ID>
+      <dtAccounting>2017-02-12T00:00:00</dtAccounting>
+      <dttmShowStart>2017-02-12T11:10:00</dttmShowStart>
+      <dttmShowStartUTC>2017-02-12T09:10:00Z</dttmShowStartUTC>
+      <dttmShowEnd>2017-02-12T13:15:00</dttmShowEnd>
+      <dttmShowEndUTC>2017-02-12T11:15:00Z</dttmShowEndUTC>
+      <ShowSalesStartTime>2000-01-01T00:00:00</ShowSalesStartTime>
+      <ShowSalesStartTimeUTC>2000-01-01T00:00:00Z</ShowSalesStartTimeUTC>
+      <ShowSalesEndTime>2017-02-12T10:25:00</ShowSalesEndTime>
+      <ShowSalesEndTimeUTC>2017-02-12T08:25:00Z</ShowSalesEndTimeUTC>
+      <ShowReservationStartTime>0001-01-01T00:00:00</ShowReservationStartTime>
+      <ShowReservationStartTimeUTC>0001-01-01T00:00:00</ShowReservationStartTimeUTC>
+      <ShowReservationEndTime>0001-01-01T00:00:00</ShowReservationEndTime>
+      <ShowReservationEndTimeUTC>0001-01-01T00:00:00</ShowReservationEndTimeUTC>
+      <EventID>3110</EventID>
+      <Title>November</Title>
+      <OriginalTitle>November</OriginalTitle>
+      <ProductionYear>2016</ProductionYear>
+      <LengthInMinutes>115</LengthInMinutes>
+      <dtLocalRelease>2017-02-03T00:00:00</dtLocalRelease>
+      <Rating>Under 12 Not Recommended</Rating>
+      <RatingLabel>Under 12 Not Recommended</RatingLabel>
+      <RatingImageUrl>https://mcswebsites.blob.core.windows.net/apollokino-ee/images/rating_large_Under 12 Not Recommended.png</RatingImageUrl>
+      <EventType>Movie</EventType>
+      <Genres>Fantasy</Genres>
+      <TheatreID>1038</TheatreID>
+      <TheatreAuditriumID>1207</TheatreAuditriumID>
+      <Theatre>Apollo Kino Solaris</Theatre>
+      <TheatreAuditorium>Screen 3</TheatreAuditorium>
+      <TheatreAndAuditorium>Apollo Kino Solaris, Screen 3</TheatreAndAuditorium>
+      <PresentationMethodAndLanguage>in Estonian</PresentationMethodAndLanguage>
+      <PresentationMethod />
+      <EventSeries />
+      <ShowURL>http://apollokino.ee/eng/Websales/Show/140860/</ShowURL>
+      <EventURL>http://apollokino.ee/eng/Event/3110/</EventURL>
+      <Images>
+        <EventMicroImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6339/portrait_micro/November%20768x1097.jpg</EventMicroImagePortrait>
+        <EventSmallImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6339/portrait_small/November%20768x1097.jpg</EventSmallImagePortrait>
+        <EventMediumImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6339/portrait_medium/November%20768x1097.jpg</EventMediumImagePortrait>
+        <EventLargeImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6339/portrait_large/November%20768x1097.jpg</EventLargeImagePortrait>
+        <EventSmallImageLandscape>http://mcswebsites.blob.core.windows.net/1013/Event_6339/landscape_small/APK_WEB_HEADER_TEMPLATE_NEW-1.jpg</EventSmallImageLandscape>
+      </Images>
+      <ContentDescriptors />
+    </Show>
+    <Show>
+      <ID>140807</ID>
+      <dtAccounting>2017-02-12T00:00:00</dtAccounting>
+      <dttmShowStart>2017-02-12T11:30:00</dttmShowStart>
+      <dttmShowStartUTC>2017-02-12T09:30:00Z</dttmShowStartUTC>
+      <dttmShowEnd>2017-02-12T13:09:00</dttmShowEnd>
+      <dttmShowEndUTC>2017-02-12T11:09:00Z</dttmShowEndUTC>
+      <ShowSalesStartTime>2000-01-01T00:00:00</ShowSalesStartTime>
+      <ShowSalesStartTimeUTC>2000-01-01T00:00:00Z</ShowSalesStartTimeUTC>
+      <ShowSalesEndTime>2017-02-12T10:45:00</ShowSalesEndTime>
+      <ShowSalesEndTimeUTC>2017-02-12T08:45:00Z</ShowSalesEndTimeUTC>
+      <ShowReservationStartTime>0001-01-01T00:00:00</ShowReservationStartTime>
+      <ShowReservationStartTimeUTC>0001-01-01T00:00:00</ShowReservationStartTimeUTC>
+      <ShowReservationEndTime>0001-01-01T00:00:00</ShowReservationEndTime>
+      <ShowReservationEndTimeUTC>0001-01-01T00:00:00</ShowReservationEndTimeUTC>
+      <EventID>3041</EventID>
+      <Title>Ballerina</Title>
+      <OriginalTitle>Ballerina</OriginalTitle>
+      <ProductionYear>2016</ProductionYear>
+      <LengthInMinutes>89</LengthInMinutes>
+      <dtLocalRelease>2017-01-20T00:00:00</dtLocalRelease>
+      <Rating>Family film</Rating>
+      <RatingLabel>Family film</RatingLabel>
+      <RatingImageUrl>https://mcswebsites.blob.core.windows.net/apollokino-ee/images/rating_large_Family film.png</RatingImageUrl>
+      <EventType>Movie</EventType>
+      <Genres>Animation, Family</Genres>
+      <TheatreID>1038</TheatreID>
+      <TheatreAuditriumID>1203</TheatreAuditriumID>
+      <Theatre>Apollo Kino Solaris</Theatre>
+      <TheatreAuditorium>Screen 4</TheatreAuditorium>
+      <TheatreAndAuditorium>Apollo Kino Solaris, Screen 4</TheatreAndAuditorium>
+      <PresentationMethodAndLanguage>in Estonian</PresentationMethodAndLanguage>
+      <PresentationMethod />
+      <EventSeries />
+      <ShowURL>http://apollokino.ee/eng/Websales/Show/140807/</ShowURL>
+      <EventURL>http://apollokino.ee/eng/Event/3041/</EventURL>
+      <Images>
+        <EventMicroImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6263/portrait_micro/Ballerina_B1_EE_new.jpg</EventMicroImagePortrait>
+        <EventSmallImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6263/portrait_small/Ballerina_B1_EE_new.jpg</EventSmallImagePortrait>
+        <EventMediumImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6263/portrait_medium/Ballerina_B1_EE_new.jpg</EventMediumImagePortrait>
+        <EventLargeImagePortrait>http://mcswebsites.blob.core.windows.net/1013/Event_6263/portrait_large/Ballerina_B1_EE_new.jpg</EventLargeImagePortrait>
+        <EventSmallImageLandscape>http://mcswebsites.blob.core.windows.net/1013/Event_6263/landscape_small/Ballerina_ApolloKino_MoviePageHeader.jpg</EventSmallImageLandscape>
+        <EventLargeImageLandscape>http://mcswebsites.blob.core.windows.net/1013/Event_6263/landscape_large/Ballerina_ApolloKino_MoviePageHeader.jpg</EventLargeImageLandscape>
+      </Images>
+      <ContentDescriptors />
+    </Show>
+  </Shows>
+</Schedule>
