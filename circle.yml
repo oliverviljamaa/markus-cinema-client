@@ -20,4 +20,4 @@ deployment:
   production:
     branch: master
     commands:
-      - yarn release-to-github && npm publish
+      - yarn codeclimate && yarn release-to-github && npm publish
